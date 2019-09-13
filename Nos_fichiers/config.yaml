@@ -1,0 +1,24 @@
+# Bienvenue dans le fichier de configuration !
+
+# Un commentaire doit toujours être précédé d'un '#'
+# Merci de ne pas changer la structure du fichier de configuration
+
+KeyUp : z
+KeyDown : s
+KeyLeft : q
+KeyRight : d
+KeyUpLeft : a
+KeyUpRight : e
+KeyDownLeft : w
+KeyDownRight : c
+
+TokenP1 : 1
+TokenP2 : 2
+
+# Le nombre de tours doit obligatoirement être supérieur à 10
+
+Choix nombre de tours 1 : 10
+Choix nombre de tours 2 : 20
+Choix nombre de tours 3 : 30
+
+Nombre de manches en mode battle : 5
