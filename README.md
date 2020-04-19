@@ -1,7 +1,7 @@
 # IUT_M1103_Projet
-##Projet C++ - Développement d'un jeu vidéo exécutable sur Shell
+Projet C++ - Développement d'un jeu vidéo sans POO à partir d'une ébauche de solution fournie exécutable sur Shell
 
-Projet C++ développé en 1re année sans POO à partir d'une ébauche de solution fournie
+## Code
 
 Des fonctionnalités ont été ajoutées au jeu initial :
 • Cases bonus (boost, boost orienté, trou de ver, case double tour)
@@ -12,3 +12,10 @@ Des fonctionnalités ont été ajoutées au jeu initial :
 • Didacticiel
 
 Code organisé avec des fichiers d'en-tête (.h) et fichiers sources (.cpp). Le jeu s'exécute sur un terminal.
+
+## Développé avec
+
+* **Steffen Alvarez**
+* **Christophe Ruiz**
+* **Vincent Thouvenel**
+* **Anthony Ziane**
