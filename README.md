@@ -1,5 +1,5 @@
 # IUT_M1103_Projet
-Projet C++ - Développement d'un jeu vidéo exécutable sur Shell
+##Projet C++ - Développement d'un jeu vidéo exécutable sur Shell
 
 Projet C++ développé en 1re année sans POO à partir d'une ébauche de solution fournie
 
