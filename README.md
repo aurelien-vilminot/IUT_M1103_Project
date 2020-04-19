@@ -1,4 +1,4 @@
-# IUT M1103 | 1re année | Jeu C++
+# IUT M1103 | 1<sup>re</sup> année | Jeu C++
 Projet C++ - Développement d'un jeu vidéo sans POO à partir d'une ébauche de solution fournie exécutable sur Shell
 
 ## Code
